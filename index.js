@@ -2,12 +2,12 @@
 window.onload = function () {
 
   const processos = [
-    { nome: 'Iallen', area: 'POO', hp: 5, bilhetes: 10 },
-    { nome: 'Jerfferson', area: 'Análise de Projetos', hp: 3, bilhetes: 5 },
+    { nome: 'Iallen', area: 'POO', hp: 6, bilhetes: 10 },
+    { nome: 'Jerfferson', area: 'Análise de Projetos', hp: 3, bilhetes: 4 },
     { nome: 'Sekeff', area: 'Arquitetura de Computadores', hp: 8, bilhetes: 20 },
-    { nome: 'Maycol', area: 'Sistemas Operacionais', hp: 6, bilhetes: 15 },
-    { nome: 'Mayllon', area: 'Engenharia de Dados', hp: 4, bilhetes: 10 },
-    { nome: 'Ivan', area: 'Extensão', hp: 2, bilhetes: 12 },
+    { nome: 'Maykol', area: 'Sistemas Operacionais', hp: 6, bilhetes: 7},
+    { nome: 'Mayllon', area: 'Engenharia de Dados', hp: 3, bilhetes: 10 },
+    { nome: 'Ivan', area: 'Extensão', hp: 3, bilhetes: 12 },
     { nome: 'Wanderson', area: 'Banco de Dados', hp: 7, bilhetes: 18 },
     { nome: 'Jivago', area: 'Estrutura de Dados', hp: 5, bilhetes: 8 }
   ];
